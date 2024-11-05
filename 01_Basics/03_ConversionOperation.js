@@ -11,3 +11,10 @@ let isLoggedIn = "Chaitanya";
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn);
 
+
+
+// Opreations
+
+let value = 3;
+let negValue = -value;
+console.log(negValue);
